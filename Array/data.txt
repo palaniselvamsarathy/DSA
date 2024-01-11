@@ -1,0 +1,9 @@
+Array is list in python
+
+Only Dynamic Array is in python
+"In other languages We have static and dynamic array"
+
+Static Array - We have define some numbers means we have defined the length of an array
+             - We can't add any element after the reach of the length
+
+Dynamic Array - It increase the length dynamically

@@ -1,0 +1,25 @@
+Linkedlist
+
+There are issue with arrays the linkedlist tries to solve
+Issue:
+If we have an array of 5 elements.. and we have a capacity to store in list of 5 items
+and if we want to store anotherr element it allocates extra memory and swaps the value
+Extra memory allocation 5*2  10*2 like this (already allocated memory * 2)
+
+Solution:
+The individual values are stored in different area of memory
+but those are linked by these pointers. the pointers are reference to the next pointers address
+Create like alinks here
+through links we can access 
+
+If we use linkedlist We don't have too swap the values while inserting
+We just change the address and pointers of the value
+
+
+Two Benefits:
+1. No need to preallocate space
+2. Insertion is Easy
+
+***************
+Double lInked list
+-->. You not have only to link to the next element.. at the same time you have the link to the previous element as well.
