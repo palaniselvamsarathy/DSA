@@ -23,3 +23,10 @@ Two Benefits:
 ***************
 Double lInked list
 -->. You not have only to link to the next element.. at the same time you have the link to the previous element as well.
+
+
+
+/////////
+Another youtube video
+Linkedlist have links with next element in the list
+D Linked list have links at both side with next and previous element in the list
