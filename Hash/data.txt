@@ -15,3 +15,18 @@ prices = {
     'age':22,
     'salary':25000.00
 }
+
+We can use ,
+def __setitem__    => add one pair
+def __getitem__    => get the value
+def __delitem__    => del the value
+for hash functions
+
+Collision::::::::
+1. Separate Chaining:
+ -> In hash function the memory randomly allocates to the index value,
+ -> If multiple values using the same index , here we can use the approach called, Separate Chaining or Chaining
+ instead of directly storing a value we can store it as a linkedlist or a list
+
+2. Linear Probing:
+ -> Searching for empty memory for our key value pair [if it is tries to occupies the same index]
