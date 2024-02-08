@@ -1,0 +1,17 @@
+If we have an array
+and we havee millions of records our searching element is at the end
+Then the iteration is too long...
+Complexity - O(n)
+
+If we are using hash map 
+Complexity - O(1)
+
+In python we don't have hash instead we have dictionary
+[[[[ in Java we have hash and linkedhashmap ]]]]
+
+prices = {
+    'id':101,
+    'name':'sarathy',
+    'age':22,
+    'salary':25000.00
+}
